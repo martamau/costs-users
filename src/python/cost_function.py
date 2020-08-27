@@ -1,3 +1,6 @@
+from zquantum.core.utils import load_list
+
+
 def compute_zero_cost(
     target_distribution, measured_distribution, distance_measure_parameters
 ):
